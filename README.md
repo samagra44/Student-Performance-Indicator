@@ -7,11 +7,6 @@
 - Model Trainer.
 - Model Deployment.      
 
-## Project Setup:
-- Setting up the Github Repository.
-- Create Virtual environment => ```conda create -p venv python=3.8 -y```
-- Activate the environement => ```conda activate venv/```
-
 ## Project Overview:
 **This project aims to predict students' math scores based on various features such as gender, ethnicity, parental level of education, lunch type, test preparation course, reading score, and writing score. The project involves the entire machine learning lifecycle, including data ingestion, data transformation, model training, and model deployment.**
 
