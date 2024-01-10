@@ -20,3 +20,5 @@
 python app.py
 ```
 - Application Running on ```http://127.0.0.1:5000/```
+
+![ml](https://github.com/samagra44/Student-Performance-Indicator-Using-Machine-Learning/assets/77968722/33471566-bbba-4798-99e1-290f92bac984)
